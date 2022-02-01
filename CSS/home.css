@@ -47,7 +47,7 @@
 	letter-spacing: 0.02em;
 	padding-bottom: 15px;
 	text-align: center;
-	font-family: pop_r;
+	font-family: 'Poppins';
 }
 .third_block_cell_profession{
 	display: none;
@@ -55,7 +55,7 @@
 	color: #aeaeb7;
 	letter-spacing:0.2em;
 	text-align: center;
-	font-family: nun_b;
+	font-family: 'Poppins';
 }
 
 .third_block_cell img{
@@ -120,7 +120,7 @@
 	text-transform: uppercase;
 	transition: 1s;
 	white-space: nowrap;
-	font-family: nun_b;
+	font-family: 'Poppins';
 }
 .button_div_explore_more:hover a{
 	background-color: #7fa3a3;
@@ -136,7 +136,7 @@
 	padding-bottom: 42px;
 	margin-bottom: 65px;
 	margin-top: 110px;
-	font-family: pop_r;
+	font-family: 'Poppins';
 }
 .forth_block_title:after{
 	border-bottom: 2px solid #1a1a1d;
@@ -193,12 +193,12 @@
 .forth_block_extra_info_cell_text,.profile_extra_info_cell_text{
 	font-size: 1.5em;
 	color: #1a1a1d;
-	font-family: pop_m;
+	font-family: 'Poppins';
 	transition: 0.5s;
 }
 .grey_date{
 	color: #77777e;
-	font-family: nun_r;
+	font-family: 'Poppins';
 }
 .forth_block_extra_info_cell:hover,.profile_extra_info_cell:hover{
 	cursor: pointer;
@@ -250,10 +250,10 @@
 	justify-content: space-between;
 	height: 184px;
 	color: #fff;
-	font-family: nun_r;
+	font-family: 'Poppins';
 }
 .fifth_block_portside_summit_left_text_description{
-	font-family: pop_m;
+	font-family: 'Poppins';
 	font-size: 1.875em;
 }
 .fifth_block_portside_summit_right{
@@ -276,7 +276,7 @@
 	text-align: center;
 	background-color: #fff;
 	text-transform: uppercase;
-	font-family: nun_b;
+	font-family: 'Poppins';
 }
 .fifth_block_portside_bottom{
 	width: 100%;
@@ -336,7 +336,7 @@
 
 }
 .play_all_text{
-	font-family: nun_b;
+	font-family: 'Poppins';
 	font-size: 0.875em;
 	padding-left: 30px;
 	text-transform: uppercase;
@@ -349,7 +349,7 @@
 }
 .fifth_block_portside_bottom_left_text, .fifth_block_starboardside_text{
 	font-size: 1.5em;
-	font-family: pop_m;
+	font-family: 'Poppins';
 }
 
 .fifth_block_starboardside{
